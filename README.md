@@ -1,3 +1,17 @@
+# Changes from Original Rook
+
+![](https://imgur.com/t2nv7Oc.jpg)
+
+Wanted to get my idea into CAD and add to this great community.
+
+Integrated linear rods into motion system to replace linear rails.
+
+Increased build area to 150mm
+
+V2 combines the front of the upper frame with the idlers and the rear of the upper frame with the motor mounts.
+
+
+
 # Rook
 Welcome to the DIY 3D Printer called Rook!
 
