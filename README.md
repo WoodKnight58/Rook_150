@@ -11,6 +11,10 @@ Increased build area to 150mm
 V2 combines the front of the upper frame with the idlers and the rear of the upper frame with the motor mounts.
 
 
+![](https://i.imgur.com/1YPYpml.jpeg)
+
+V4 is cut into pieces so that it can be printed on itself
+
 
 # Rook
 Welcome to the DIY 3D Printer called Rook!
