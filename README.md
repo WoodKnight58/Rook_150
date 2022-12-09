@@ -1,4 +1,19 @@
-# Changes from Original Rook
+# Rook 150
+
+![](https://i.imgur.com/GT6wO1n.jpg)
+
+This is version 5 and I'm planning on printing it: (still not fully tested)
+
+Changes from Original Rook:
+  1. Linear rod only (x, y , and z)
+  2. 150mm x 150mm build plate
+  3. Reprap- it could replicate it's own printed parts
+  4. Motors have wedges to help tension
+  5. V6 hotend with 40mm x 40mm heatsink fan
+  6. Bottom z limit switch has mount built into base
+  7. All rods are held in plase with bolts that clamp down on them
+  8. Feet are part of the base
+
 
 ![](https://imgur.com/t2nv7Oc.jpg)
 
