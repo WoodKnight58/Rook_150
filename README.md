@@ -2,7 +2,14 @@
 
 ![](https://i.imgur.com/GT6wO1n.jpg)
 
-This is version 5 and I'm planning on printing it: (still not fully tested)
+This is version 5_2B. I've printed it and like it so far.
+  Quick tips:
+    1. Haven't clamped the bearings and it's working well so far. 
+    2. For the bed and Bottom frame, I only used the screws in the outter edges. I didn't use the ones in the dovetails but they could help in bringing the pieces together.
+    3. I used one bolt for each rod end in the top.
+    4. I used 2 LM8UU bearings for the Y gantry as an alternative to the longer LM8LUU either should work well
+    5. I haven't tested the motor wedges but will try them out if I have belt tension issues.
+    6. I printed the Carriage and motor wedges in PETG since they could get hot. ABS/ASA would be even better.
 
 Changes from Original Rook:
   1. Linear rod only (x, y , and z)
